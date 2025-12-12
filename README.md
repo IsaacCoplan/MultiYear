@@ -7,11 +7,12 @@ A geospatial and time-series analysis of emergency shelter capacity across Ontar
 * **Visualization:** Interactive Folium maps (time-lapse) and Seaborn statistical charts.
 
 ## Key Files
-* `ontario_shelter_map.html`: A standalone interactive map visualizing capacity changes over time.
-* `ontario_housing_analysis.ipynb`: The complete source code including data extraction and processing.
+* **[ontario_shelter_map.html](https://isaaccoplan.github.io/MultiYear/ontario_shelter_map.html)**: A standalone interactive map visualizing capacity changes over time.
+* **[Multi_Year_Comparison.ipynb](https://github.com/IsaacCoplan/MultiYear/blob/9816848825f084276815362b17fcff3545b7d5d1/Multi_Year_Comparison.ipynb)**: The complete source code including data extraction and processing.
 
 ## Visuals
 <img width="526" height="430" alt="image" src="https://github.com/user-attachments/assets/fd71a82a-72c6-422f-b795-0977830b013a" />
+
 
 
 
