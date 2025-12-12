@@ -1,5 +1,3 @@
-<img width="526" height="430" alt="image" src="https://github.com/user-attachments/assets/85fbccc1-63f1-475b-82c6-37bd3c01364f" /># Ontario Shelter Analysis (2019-2024)
-
 ## Project Overview
 A geospatial and time-series analysis of emergency shelter capacity across Ontario during the housing crisis. This project tracks the growth of shelter infrastructure in major urban centers from 2019 to 2024.
 
@@ -14,5 +12,6 @@ A geospatial and time-series analysis of emergency shelter capacity across Ontar
 
 ## Visuals
 <img width="526" height="430" alt="image" src="https://github.com/user-attachments/assets/fd71a82a-72c6-422f-b795-0977830b013a" />
+
 
 
